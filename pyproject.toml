@@ -1,0 +1,11 @@
+[project]
+name = "brazilian-coin-counter"
+version = "0.1.0"
+description = "Program to count Brazilian coins."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "scikit-image>=0.26.0",
+]
