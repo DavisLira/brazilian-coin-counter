@@ -23,6 +23,24 @@ A solução foi implementada em Python utilizando estritamente as bibliotecas vi
 
 ---
 
+## Base de Dados Utilizada
+As imagens utilizadas para teste e validação foram obtidas a partir do dataset público **Brazilian Coins** no Roboflow.
+- **Link do Dataset:** [Brazilian Coins - Roboflow Universe](https://app.roboflow.com/davislira/brazilian-coins-r2vwk-4llen/images/rACRDQmwFlJueYPycMMr?queryText=&pageSize=50&startingIndex=350&browseQuery=true)
+- Foram selecionadas 19 imagens variadas contendo diferentes quantidades, iluminações e disposições de moedas das duas famílias do Real.
+
+---
+
+## Estrutura do Repositório
+O projeto está organizado da seguinte forma:
+
+- `/notebooks`: Contém o código principal (`coin_counter.ipynb`) e testes de carga.
+- `/images`: Imagens originais utilizadas para os testes.
+- `/results`: Imagens processadas com o valor total calculado e identificação visual.
+- `/counts`: Imagens com a numeração (indexação) de cada moeda para conferência.
+- `/data_coins`: Documentação técnica das moedas (tamanhos e cores esperados).
+
+---
+
 ## Como Executar
 
 ### 1️⃣ Clonar o Repositório
@@ -122,4 +140,4 @@ As imagens de teste estão disponíveis na pasta:
 
 ## Link da Apresentação
 
-...
+[Vídeo youtube](https://youtu.be/cOOuj-NyMws)
