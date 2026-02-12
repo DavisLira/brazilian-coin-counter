@@ -25,7 +25,7 @@ A solução foi implementada em Python utilizando estritamente as bibliotecas vi
 
 ## Base de Dados Utilizada
 As imagens utilizadas para teste e validação foram obtidas a partir do dataset público **Brazilian Coins** no Roboflow.
-- **Link do Dataset:** [Brazilian Coins - Roboflow Universe](https://app.roboflow.com/davislira/brazilian-coins-r2vwk-4llen/images/rACRDQmwFlJueYPycMMr?queryText=&pageSize=50&startingIndex=350&browseQuery=true)
+- **Link do Dataset:** [Brazilian Coins - Roboflow Universe](https://universe.roboflow.com/bruno-brant/brazilian-coins-r2vwk)
 - Foram selecionadas 19 imagens variadas contendo diferentes quantidades, iluminações e disposições de moedas das duas famílias do Real.
 
 ---
